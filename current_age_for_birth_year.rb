@@ -1,3 +1,3 @@
-def current_age_for_birth(x)
-  2003-x
+def current_age_for_birth(age)
+  2003-1984
 end
